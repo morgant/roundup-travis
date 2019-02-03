@@ -1,7 +1,7 @@
 # roundup-travis
 By Morgan Aldridge <morgant@makkintosshu.com>
 
-[![Build Status](https://travis-ci.com/morgant/roundup-travis.svg?branch=master)](https://travis-ci.com/morgant/roundup-travis)
+[![Build Status](https://travis-ci.com/morgant/roundup-travis.svg?branch=master)](https://travis-ci.com/morgant/roundup-travis) [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=DBY3R8ARLDELE&currency_code=USD&source=url)
 
 ## OVERVIEW
 
